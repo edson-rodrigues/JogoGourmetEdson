@@ -1,0 +1,14 @@
+C:\Users\Edson\JogoGourmetEdson\JogoGourmetEdson\bin\Debug\net8.0\JogoGourmetEdson.exe
+C:\Users\Edson\JogoGourmetEdson\JogoGourmetEdson\bin\Debug\net8.0\JogoGourmetEdson.deps.json
+C:\Users\Edson\JogoGourmetEdson\JogoGourmetEdson\bin\Debug\net8.0\JogoGourmetEdson.runtimeconfig.json
+C:\Users\Edson\JogoGourmetEdson\JogoGourmetEdson\bin\Debug\net8.0\JogoGourmetEdson.dll
+C:\Users\Edson\JogoGourmetEdson\JogoGourmetEdson\bin\Debug\net8.0\JogoGourmetEdson.pdb
+C:\Users\Edson\JogoGourmetEdson\JogoGourmetEdson\obj\Debug\net8.0\JogoGourmetEdson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edson\JogoGourmetEdson\JogoGourmetEdson\obj\Debug\net8.0\JogoGourmetEdson.AssemblyInfoInputs.cache
+C:\Users\Edson\JogoGourmetEdson\JogoGourmetEdson\obj\Debug\net8.0\JogoGourmetEdson.AssemblyInfo.cs
+C:\Users\Edson\JogoGourmetEdson\JogoGourmetEdson\obj\Debug\net8.0\JogoGourmetEdson.csproj.CoreCompileInputs.cache
+C:\Users\Edson\JogoGourmetEdson\JogoGourmetEdson\obj\Debug\net8.0\JogoGourmetEdson.dll
+C:\Users\Edson\JogoGourmetEdson\JogoGourmetEdson\obj\Debug\net8.0\refint\JogoGourmetEdson.dll
+C:\Users\Edson\JogoGourmetEdson\JogoGourmetEdson\obj\Debug\net8.0\JogoGourmetEdson.pdb
+C:\Users\Edson\JogoGourmetEdson\JogoGourmetEdson\obj\Debug\net8.0\JogoGourmetEdson.genruntimeconfig.cache
+C:\Users\Edson\JogoGourmetEdson\JogoGourmetEdson\obj\Debug\net8.0\ref\JogoGourmetEdson.dll
